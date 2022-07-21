@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://www.npmjs.com/package/hashlips_art_engine">
     <img alt="downloads" src="https://img.shields.io/npm/dm/hashlips_art_engine.svg?color=blue" target="_blank" />
@@ -14,6 +15,7 @@
   <a href="https://twitter.com/axieinfinity">
     <img alt="Twitter: axieinfinity" src="https://img.shields.io/twitter/follow/axieinfinity.svg?style=social" target="_blank" />
   </a>
+  <br>
   <img alt="Twitter: axieinfinity" src="https://coinquora.com/wp-content/uploads/2022/04/Axie-Tech-Joins-Axie-Infinity-Announces-Origins-All-New-Arena-Mode.jpg" target="_blank" />
 </p>
 
