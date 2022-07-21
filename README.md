@@ -14,9 +14,8 @@
   <a href="https://twitter.com/axieinfinity">
     <img alt="Twitter: axieinfinity" src="https://img.shields.io/twitter/follow/axieinfinity.svg?style=social" target="_blank" />
   </a>
+  <img alt="Twitter: axieinfinity" src="https://coinquora.com/wp-content/uploads/2022/04/Axie-Tech-Joins-Axie-Infinity-Announces-Origins-All-New-Arena-Mode.jpg" target="_blank" />
 </p>
-
-![alt text](https://coinquora.com/wp-content/uploads/2022/04/Axie-Tech-Joins-Axie-Infinity-Announces-Origins-All-New-Arena-Mode.jpg)
 
 ### About
 Bot uses WinAPI functions to take screenshots and recognize pixels of axie models and cards. This technology is more safe because we dont need to read memory of axie game process and we dont need any .dll injections. 
